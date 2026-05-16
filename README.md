@@ -43,6 +43,13 @@ This is your mission control for the data job market. It showcases key KPIs like
 
 This is the deep-dive page. From the main dashboard, you can drill through to this view to get specific details for a single job title, including salary ranges, work-from-home stats, top hiring platforms, and a global map of job locations.
 
+## 📥 How to Use
+1. Download the `Data_Jobs_Dashboard.pbix` file from this repository
+2. Open it in **Power BI Desktop**
+3. use the **Drill-Through** feature for detailed insights
+4. You can also download `Visualizations.pbix` file to explore additional charts and visuals created from the same dataset
+
+
 ## 📈 Conclusion
 
 This dashboard showcases how Power BI can transform raw job posting data into a powerful tool for career analysis. It allows users to slice, filter, and drill through data to make informed decisions about their career paths.
