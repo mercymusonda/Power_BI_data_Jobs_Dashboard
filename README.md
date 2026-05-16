@@ -49,5 +49,4 @@ This dashboard showcases how Power BI can transform raw job posting data into a 
 
 ## 👤 Author
 *Mercy Musonda*
-
-(https://github.com/mercymusonda)
+https://github.com/mercymusonda
