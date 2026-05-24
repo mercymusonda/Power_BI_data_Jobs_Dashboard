@@ -7,7 +7,7 @@ Explore the dashboards below. Each has its own dedicated README with more detail
 ## 📈 Data Jobs Dashboard (V1 - Comprehensive Exploration)
 ![Data Jobs DB GIF](/Images/page1_data_jobs_dashboard.png)
 
-**⬇️ Download `Data_Jobs_Dashboard.pbix` inside "Data_Jobs_V1" file in Power BI Desktop to interact**
+**⬇️ Download `Data_Jobs_Dashboard.pbix` inside "Data_Jobs_V1" file and open in Power BI Desktop to interact**
 
 **🛠️ Key Power BI Skills Utilized:**
 - 🎨 Dashboard Layout & Design
